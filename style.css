@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+header{ background-color: blue;
+color:white;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+
+main{ background-color: black;
+color:white;
+padding-top: 90px;
+padding-bottom: 90px;
+text-align: center;
+
+}
+footer{ background-color: green;
+color:white;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
